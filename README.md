@@ -4,11 +4,11 @@ The task is to build two RESTful APIs. One of them is called every time a transa
 
 ## Technology Stack used to build the application 
 
-Java Programming
-Eclipse IDE
-Java v1.8.0_92
-Apache Maven v3.3.9
-Spring Boot v1.4.3.RELEASE
+1. Java Programming
+2. Eclipse IDE
+3. Java v1.8.0_92
+4. Apache Maven v3.3.9
+5. Spring Boot v1.4.3.RELEASE
 
 ## Application testing
 
