@@ -56,7 +56,6 @@ public class StatisticsService {
 						.isTimestampOlderThan1Min(transaction.getTimestamp()))
 				.mapToDouble(transaction -> transaction.getAmount())
 				.summaryStatistics();
-		System.out.println(statsSummary);
 
 		if (statsSummary.getCount() == 0) {
 			return statistics;
