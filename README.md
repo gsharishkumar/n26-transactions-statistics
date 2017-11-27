@@ -1,4 +1,4 @@
-# N26 Backend Coding Challenge
+# RESTful API for transaction statistics
 
 The task is to build two RESTful APIs. One of them is called every time a transaction is made and it is also the sole input of this rest API. And the other one returns the statistic based of the transactions of the last 60 seconds.
 
